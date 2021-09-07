@@ -1,8 +1,8 @@
 # Spring Thymeleaf 
 
-> __Thymeleaf 가 무엇이고 어떠한 기능을 제공해주는지 알아보고, 스프링에서 Thymeleaf 를 가지고 어떻게 뷰를 만드는지 알아보기 위해 정리한 글입니다. __
+> __Thymeleaf 가 무엇이고 어떠한 기능을 제공해주는지 알아보고, 스프링에서 Thymeleaf 를 가지고 어떻게 뷰를 만드는지 알아보기 위해 정리한 글입니다.__
 > 
-> __ 정리할 내용은 다음과 같습니다.__ 
+> __정리할 내용은 다음과 같습니다.__ 
 > - Thymeleaf 의 목적
 > - Thymeleaf 가 제공해주는 Template 
 > - Spring Boot 에서 Thymeleaf 를 이용하기 위한 설정
